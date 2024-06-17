@@ -48,6 +48,11 @@
 
 I'm definitely not a cat person.
 
+### 🧠 Belief
+
+I am an <b>"Atheist"</b> and I do not accept anything that is against <b>(Science)</b> and does not have valid and scientific documents
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminMirzaeiOne&show_icons=true&theme=radical)
 
 
