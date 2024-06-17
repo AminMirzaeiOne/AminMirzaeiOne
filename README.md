@@ -9,11 +9,11 @@
 ** ❤ I love working with**
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/Csharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp"/>
+  <img src="https://img.shields.io/badge/Csharp-slateblue?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp"/>
   <img src="https://img.shields.io/badge/Cpp-%23007ACC.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" alt="Cpp"/>
   <img src="https://img.shields.io/badge/.Net-%23663399.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
-  <img src="https://img.shields.io/badge/Qt Widgets-black?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt Widgets"/>
-  <img src="https://img.shields.io/badge/xamarin-%23663399.svg?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
+  <img src="https://img.shields.io/badge/Qt Widgets-darkgreen?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt Widgets"/>
+  <img src="https://img.shields.io/badge/xamarin-dodgerblue.svg?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
   <img src="https://img.shields.io/badge/Microsoft Visual Studio-%231572B6.svg?style=for-the-badge&logo=visualstudio&logoColor=black" alt="Visual Stduio"/>
 </div>
 
@@ -25,9 +25,9 @@
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/Typescript-2F3134?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
-  <img src="https://img.shields.io/badge/Blazor-3C3C3D?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
-  <img src="https://img.shields.io/badge/Flutter-%23FF9A00.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/Blazor-slateblue?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/Flutter-red.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
@@ -41,14 +41,14 @@
   <a href="https://www.linkedin.com/in/codewithbernard/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://instagram.com/amin.reals">
-    <img src="https://img.shields.io/badge/Instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Instagram-crimson?style=for-the-badge&logo=instagram&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://twitter.com/CodeWithBernard">
+    <img src="https://img.shields.io/badge/codewithbernard-black.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
