@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I am Amin 👋 from Iran , a programmer and developer of .NET and Windows 💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminMirzaeiOne&show_icons=true&theme=radical)
 
 <!--
