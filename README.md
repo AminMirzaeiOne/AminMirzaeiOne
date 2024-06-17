@@ -31,10 +31,6 @@
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
-
 ### 📫 How to reach me
 
 <div display="flex">
@@ -55,13 +51,21 @@
 ### 🧠 IQ
 I have an IQ of <b>"147"</b> in the test of <b>https://www.mensa.org</b> and in the category of highly intelligent people.
 
+### 🐟 Belief
+
+I am an <b>"Atheist"</b> and I do not accept anything that is against <b>(Science)</b> and does not have valid and scientific documents
+
 ### ⚡ Fun fact
 
 I'm definitely not a cat person.
 
-### 🐟 Belief
+### 🤔 I’m looking for help with
 
-I am an <b>"Atheist"</b> and I do not accept anything that is against <b>(Science)</b> and does not have valid and scientific documents
+- Creating a web processor engine using C++
+
+------------------------------------------------------
+
+<h2>Infographics</h2>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminMirzaeiOne&show_icons=true&theme=radical)
