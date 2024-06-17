@@ -1,4 +1,7 @@
 ## Hello, I am Amin 👋
+
+<h6>I am a programmer and developer of .NET and desktop software, and I master Windows Forms - WPF - Qt Widgets technologies and I know C#, C++ and Visual Basic languages.
+</h6>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminMirzaeiOne&show_icons=true&theme=radical)
 
 <!--
