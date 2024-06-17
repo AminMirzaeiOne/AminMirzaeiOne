@@ -41,10 +41,13 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://instagram.com/amin.reals">
+    <img src="https://img.shields.io/badge/Instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white" alt="Medium"/>
   </a>
 </div>
 
