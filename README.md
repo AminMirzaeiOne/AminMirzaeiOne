@@ -65,7 +65,7 @@ I'm definitely not a cat person.
 
 ------------------------------------------------------
 
-<h2>Infographics</h2>
+<h2> 💡 Infographics</h2>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminMirzaeiOne&show_icons=true&theme=radical)
