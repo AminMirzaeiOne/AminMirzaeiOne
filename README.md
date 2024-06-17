@@ -17,11 +17,6 @@
   <img src="https://img.shields.io/badge/Microsoft Visual Studio-%231572B6.svg?style=for-the-badge&logo=visualstudio&logoColor=black" alt="Visual Stduio"/>
 </div>
 
-### 🔭 I’m working on
-
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
-
 ### 🌱 I’m learning
 
 <div display="flex">
@@ -47,6 +42,11 @@
     <img src="https://img.shields.io/badge/codewithbernard-black.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 </div>
+
+### 🔭 I’m working on
+
+- Projects for freelance clients.
+- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
 ### 🧠 IQ
 I have an IQ of <b>"147"</b> in the test of <b>https://www.mensa.org</b> and in the category of highly intelligent people.
