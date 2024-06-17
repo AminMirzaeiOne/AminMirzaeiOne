@@ -6,11 +6,12 @@
 **I love working with**
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Csharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp"/>
+  <img src="https://img.shields.io/badge/Cpp-%23007ACC.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" alt="Cpp"/>
+  <img src="https://img.shields.io/badge/.Net-%23663399.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
+  <img src="https://img.shields.io/badge/Qt Widgets-black?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt Widgets"/>
+  <img src="https://img.shields.io/badge/xamarin-%23663399.svg?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
+  <img src="https://img.shields.io/badge/Microsoft Visual Studio-%231572B6.svg?style=for-the-badge&logo=visualstudio&logoColor=black" alt="Visual Stduio"/>
 </div>
 
 ### 🔭 I’m working on
