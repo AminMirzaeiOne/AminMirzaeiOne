@@ -44,11 +44,14 @@
   </a>
 </div>
 
+### 🧠 IQ
+I have an IQ of <b>"147"</b> in the test of <b>https://www.mensa.org</b> and in the category of highly intelligent people.
+
 ### ⚡ Fun fact
 
 I'm definitely not a cat person.
 
-### 🧠 Belief
+### 🐟 Belief
 
 I am an <b>"Atheist"</b> and I do not accept anything that is against <b>(Science)</b> and does not have valid and scientific documents
 
