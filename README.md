@@ -1,9 +1,12 @@
 ## Hello, I am Amin 👋
 
-<h3>I am a programmer and developer of .NET and desktop software, and I master Windows Forms - WPF - Qt Widgets technologies and I know C#, C++ and Visual Basic languages.
-</h3>
+<h3> 👦A short summary of me </h3>
+<h4>I am a programmer and developer of .NET and desktop software, and I master Windows Forms - WPF - Qt Widgets technologies and I know C#, C++ and Visual Basic languages.
+</h4>
 
-**I love working with**
+----------------------------------------------------------------------
+
+** ❤ I love working with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Csharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp"/>
