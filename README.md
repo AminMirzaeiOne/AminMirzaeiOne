@@ -1,7 +1,7 @@
 ## Hello, I am Amin 👋
 
 <h3> 👦A short summary of me </h3>
-<h4>I am a programmer and developer of .NET and desktop software, and I master Windows Forms - WPF - Qt Widgets technologies and I know C#, C++ and Visual Basic languages.
+<h4>I am a programmer and developer of .NET and desktop software, and I master Windows Forms - WPF - Qt Widgets technologies and I know C#, C++, C and Visual Basic languages.
 </h4>
 
 ----------------------------------------------------------------------
