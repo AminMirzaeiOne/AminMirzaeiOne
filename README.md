@@ -57,7 +57,9 @@ I am an <b>"Atheist"</b> and I do not accept anything that is against <b>(Scienc
 
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.
+- I'm definitely not Batman
+- My favorite theme is Dracula
+
 
 ### 🤔 I’m looking for help with
 
