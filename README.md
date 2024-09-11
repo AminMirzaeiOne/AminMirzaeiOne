@@ -59,7 +59,7 @@ I am an <b>"Atheist"</b> and I do not accept anything that is against <b>(Scienc
 
 - I'm definitely not Batman
 - My favorite theme is Dracula
-- I can type 87 words per minute according to (https://monkeytype.com)
+- I can type 93 words per minute according to (https://monkeytype.com)
 
 
 ### 🤔 I’m looking for help with
