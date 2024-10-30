@@ -49,7 +49,7 @@
 - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
 ### 🧠 IQ
-I have an IQ of <b>"147"</b> in the test of <b>https://www.mensa.org</b> and in the category of highly intelligent people.
+I have an IQ of <b>"147"</b> in the test of <b>(https://www.mensa.org)</b> and in the category of highly intelligent people.
 
 ### 🐟 Belief
 
